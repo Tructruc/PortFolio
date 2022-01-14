@@ -290,3 +290,13 @@ body{
     height: 100%;
     border-radius: 5px;
 }
+
+.contact-info{
+    margin-top: 50px;
+    color: white;
+
+}
+
+.contact-list{
+    line-height: 2em;
+}
