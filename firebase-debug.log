@@ -1,0 +1,21 @@
+[debug] [2022-01-14T19:23:05.704Z] ----------------------------------------------------------------------
+[debug] [2022-01-14T19:23:05.713Z] Command:       /usr/bin/node /usr/local/bin/firebase init
+[debug] [2022-01-14T19:23:05.714Z] CLI Version:   10.1.0
+[debug] [2022-01-14T19:23:05.715Z] Platform:      linux
+[debug] [2022-01-14T19:23:05.715Z] Node Version:  v12.22.5
+[debug] [2022-01-14T19:23:06.257Z] Time:          Fri Jan 14 2022 20:23:05 GMT+0100 (heure normale d’Europe centrale)
+[debug] [2022-01-14T19:23:06.258Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-01-14T19:23:06.385Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-01-14T19:23:06.385Z] > authorizing via signed-in user (emi.fieu.81@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /home/tructruc00/Prog/portfolio/PortFolio
+
